@@ -22,17 +22,17 @@ msgstr ""
 
 #: luasrc/model/cbi/nps.lua:31
 msgid "Enable Compression"
-msgstr ""
+msgstr "使用压缩传输"
 
 #: luasrc/model/cbi/nps.lua:34
 msgid "Enable Encryption"
-msgstr ""
+msgstr "使用加密传输"
 
 #: luasrc/model/cbi/nps.lua:34
 msgid ""
 "Encrypted the communication between Npc and Nps, will effectively prevent "
 "the traffic intercepted."
-msgstr ""
+msgstr "加密传输 npc 与 nps 之间的通信内容，会有效防止流量被拦截"
 
 #: luasrc/model/cbi/nps.lua:26
 msgid "KCP Protocol"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: luasrc/controller/nps.lua:7 luasrc/model/cbi/nps.lua:2
 msgid "Nps Setting"
-msgstr ""
+msgstr "Nps内网穿透"
 
 #: luasrc/model/cbi/nps.lua:3
 msgid ""
@@ -89,3 +89,8 @@ msgstr ""
 #: luasrc/model/cbi/nps.lua:27
 msgid "vkey"
 msgstr ""
+
+#~ msgid ""
+#~ "The contents will be compressed to speed up the traffic forwarding speed, "
+#~ "but this will consume some additional cpu resources"
+#~ msgstr "压缩传输内容，加快流量转发速度，会额外消耗 cpu 资源"

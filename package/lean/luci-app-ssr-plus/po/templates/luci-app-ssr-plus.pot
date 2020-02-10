@@ -129,7 +129,7 @@ msgstr ""
 msgid "Collecting data..."
 msgstr ""
 
-#: luasrc/model/cbi/shadowsocksr/client-config.lua:355
+#: luasrc/model/cbi/shadowsocksr/client-config.lua:354
 msgid "Concurrency"
 msgstr ""
 
@@ -628,7 +628,7 @@ msgstr ""
 msgid "Switch check cycly(second)"
 msgstr ""
 
-#: luasrc/model/cbi/shadowsocksr/client-config.lua:361
+#: luasrc/model/cbi/shadowsocksr/client-config.lua:360
 #: luasrc/model/cbi/shadowsocksr/server-config.lua:92
 msgid "TCP Fast Open"
 msgstr ""
